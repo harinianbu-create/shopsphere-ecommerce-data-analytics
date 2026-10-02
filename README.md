@@ -234,7 +234,7 @@ Contains detailed project objectives, datasets, technologies, analysis performed
 
 **SQL Analysis**
 
-`sql/shopsphere_sql_analysis.sql`
+[Open SQL Analysis](https://github.com/harinianbu-create/shopsphere-ecommerce-data-analytics/blob/main/sql/shopsphere_sql_analysis.sql)
 
 Contains the SQL queries used for business analysis, KPI calculations, customer analysis, product analysis, and order analysis.
 
