@@ -240,7 +240,7 @@ Contains the SQL queries used for business analysis, KPI calculations, customer 
 
 **Visualizations**
 
-`visualizations/`
+[Open Visualizations](https://github.com/harinianbu-create/shopsphere-ecommerce-data-analytics/tree/main/visualizations)
 
 Contains the charts generated during the analysis.
 
