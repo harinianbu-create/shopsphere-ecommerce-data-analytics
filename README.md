@@ -222,7 +222,7 @@ Then open the notebook using Jupyter Notebook or JupyterLab.
 
 **Analysis Notebook**
 
-`notebooks/shopsphere_ecommerce_data_analysis.ipynb`
+[Open Analysis Notebook](https://github.com/harinianbu-create/shopsphere-ecommerce-data-analytics/blob/main/notebooks/shopsphere_ecommerce_data_analysis.ipynb)
 
 Contains the complete end-to-end analysis, including Python, SQL, statistics, probability, visualizations, and business insights.
 
