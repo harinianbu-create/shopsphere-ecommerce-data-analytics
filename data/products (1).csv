@@ -1,0 +1,101 @@
+product_id,product_name,category,sub_category,cost_price,selling_price
+P0001,Product_0001,Home & Kitchen,Women,1068,6235
+P0002,Product_0002,Home & Kitchen,Kitchen,1866,5836
+P0003,Product_0003,Clothing,Skincare,1792,6411
+P0004,Product_0004,Beauty,Decor,2155,5212
+P0005,Product_0005,Beauty,Mobile Accessories,1838,1288
+P0006,Product_0006,Clothing,Kitchen,3876,6472
+P0007,Product_0007,Sports,Skincare,1796,1519
+P0008,Product_0008,Beauty,Men,823,2698
+P0009,Product_0009,Beauty,Audio,3939,6462
+P0010,Product_0010,Sports,Kitchen,3980,3622
+P0011,Product_0011,Sports,Decor,2759,6085
+P0012,Product_0012,Sports,Men,1053,1622
+P0013,Product_0013,Clothing,Fitness,3162,579
+P0014,Product_0014,Clothing,Mobile Accessories,671,3864
+P0015,Product_0015,Home & Kitchen,Skincare,4734,637
+P0016,Product_0016,Clothing,Audio,3127,4091
+P0017,Product_0017,Clothing,Fitness,3983,5300
+P0018,Product_0018,Beauty,Skincare,3120,1533
+P0019,Product_0019,Clothing,Decor,946,6536
+P0020,Product_0020,Home & Kitchen,Fitness,3759,5374
+P0021,Product_0021,Sports,Women,2480,927
+P0022,Product_0022,Clothing,Women,1545,1634
+P0023,Product_0023,Electronics,Women,3524,2973
+P0024,Product_0024,Electronics,Mobile Accessories,309,4212
+P0025,Product_0025,Electronics,Decor,3580,1020
+P0026,Product_0026,Beauty,Fitness,759,3227
+P0027,Product_0027,Electronics,Skincare,4992,5537
+P0028,Product_0028,Beauty,Decor,4752,6526
+P0029,Product_0029,Sports,Fitness,1561,6001
+P0030,Product_0030,Clothing,Mobile Accessories,2040,2799
+P0031,Product_0031,Sports,Women,3251,4599
+P0032,Product_0032,Beauty,Decor,4046,6782
+P0033,Product_0033,Sports,Men,2085,2140
+P0034,Product_0034,Home & Kitchen,Skincare,1535,2015
+P0035,Product_0035,Sports,Men,1381,567
+P0036,Product_0036,Beauty,Mobile Accessories,1001,5260
+P0037,Product_0037,Electronics,Skincare,4322,1739
+P0038,Product_0038,Home & Kitchen,Decor,1953,5749
+P0039,Product_0039,Beauty,Women,845,4765
+P0040,Product_0040,Home & Kitchen,Audio,1198,4174
+P0041,Product_0041,Electronics,Fitness,2360,3390
+P0042,Product_0042,Sports,Decor,4438,3221
+P0043,Product_0043,Beauty,Decor,4285,2763
+P0044,Product_0044,Beauty,Kitchen,827,3316
+P0045,Product_0045,Home & Kitchen,Audio,1182,3047
+P0046,Product_0046,Electronics,Fitness,3040,891
+P0047,Product_0047,Electronics,Skincare,4914,2848
+P0048,Product_0048,Beauty,Kitchen,3261,3960
+P0049,Product_0049,Electronics,Fitness,3318,2280
+P0050,Product_0050,Home & Kitchen,Audio,3175,6672
+P0051,Product_0051,Electronics,Skincare,3434,6109
+P0052,Product_0052,Home & Kitchen,Decor,3635,1953
+P0053,Product_0053,Sports,Mobile Accessories,3830,5180
+P0054,Product_0054,Clothing,Kitchen,1210,4021
+P0055,Product_0055,Beauty,Fitness,2410,1721
+P0056,Product_0056,Electronics,Men,3751,3439
+P0057,Product_0057,Sports,Kitchen,3154,3379
+P0058,Product_0058,Home & Kitchen,Men,2149,4196
+P0059,Product_0059,Beauty,Fitness,3433,1144
+P0060,Product_0060,Beauty,Mobile Accessories,4460,2915
+P0061,Product_0061,Home & Kitchen,Decor,4397,6595
+P0062,Product_0062,Sports,Decor,2312,6467
+P0063,Product_0063,Home & Kitchen,Fitness,4776,4674
+P0064,Product_0064,Clothing,Women,4780,2423
+P0065,Product_0065,Home & Kitchen,Skincare,3597,3567
+P0066,Product_0066,Clothing,Decor,2052,1167
+P0067,Product_0067,Sports,Women,3379,6860
+P0068,Product_0068,Clothing,Men,2858,4954
+P0069,Product_0069,Electronics,Kitchen,919,3358
+P0070,Product_0070,Electronics,Skincare,1327,6173
+P0071,Product_0071,Clothing,Fitness,849,2861
+P0072,Product_0072,Beauty,Decor,3983,6701
+P0073,Product_0073,Sports,Women,3315,5116
+P0074,Product_0074,Electronics,Audio,1491,1565
+P0075,Product_0075,Clothing,Women,4462,2349
+P0076,Product_0076,Electronics,Women,2006,4094
+P0077,Product_0077,Electronics,Decor,2484,2763
+P0078,Product_0078,Electronics,Men,3229,506
+P0079,Product_0079,Clothing,Fitness,4172,6094
+P0080,Product_0080,Clothing,Kitchen,363,1218
+P0081,Product_0081,Home & Kitchen,Mobile Accessories,484,6397
+P0082,Product_0082,Home & Kitchen,Decor,1545,739
+P0083,Product_0083,Electronics,Fitness,1949,5739
+P0084,Product_0084,Sports,Skincare,870,5986
+P0085,Product_0085,Sports,Mobile Accessories,2197,4499
+P0086,Product_0086,Electronics,Fitness,1610,1032
+P0087,Product_0087,Sports,Decor,3201,5902
+P0088,Product_0088,Beauty,Decor,2468,3524
+P0089,Product_0089,Sports,Decor,3033,2299
+P0090,Product_0090,Clothing,Women,4738,1138
+P0091,Product_0091,Electronics,Men,2996,2250
+P0092,Product_0092,Clothing,Fitness,318,1488
+P0093,Product_0093,Sports,Skincare,1162,5498
+P0094,Product_0094,Home & Kitchen,Men,4240,636
+P0095,Product_0095,Sports,Skincare,4524,4526
+P0096,Product_0096,Beauty,Decor,3261,581
+P0097,Product_0097,Home & Kitchen,Fitness,4252,2520
+P0098,Product_0098,Electronics,Skincare,1802,6396
+P0099,Product_0099,Clothing,Men,1348,4396
+P0100,Product_0100,Sports,Fitness,4985,3307

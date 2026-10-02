@@ -1,0 +1,6 @@
+activity_id,customer_id,session_date,device,pages_viewed,session_duration,added_to_cart,purchased
+A001,C001,2025-03-10,Mobile,8,15,Yes,Yes
+A002,C002,2025-03-12,Laptop,12,25,Yes,Yes
+A003,C003,2025-03-15,Mobile,5,8,No,No
+A004,C004,2025-03-18,Tablet,15,30,Yes,Yes
+A005,C005,2025-03-20,Laptop,10,20,Yes,Yes
