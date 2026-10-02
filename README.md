@@ -228,7 +228,7 @@ Contains the complete end-to-end analysis, including Python, SQL, statistics, pr
 
 **Project Documentation**
 
-`documentation/project_documentation.md`
+[Open Project Documentation](https://github.com/harinianbu-create/shopsphere-ecommerce-data-analytics/blob/main/documentation/project_documentation.md)
 
 Contains detailed project objectives, datasets, technologies, analysis performed, findings, recommendations, and future improvements.
 
