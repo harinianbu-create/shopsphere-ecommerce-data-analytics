@@ -232,6 +232,12 @@ Contains the complete end-to-end analysis, including Python, SQL, statistics, pr
 
 Contains detailed project objectives, datasets, technologies, analysis performed, findings, recommendations, and future improvements.
 
+**SQL Analysis**
+
+`sql/shopsphere_sql_analysis.sql`
+
+Contains the SQL queries used for business analysis, KPI calculations, customer analysis, product analysis, and order analysis.
+
 **Visualizations**
 
 `visualizations/`
