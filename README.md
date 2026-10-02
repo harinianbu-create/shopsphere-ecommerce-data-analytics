@@ -4,6 +4,17 @@ End-to-end e-commerce data analytics project using Python, Pandas, NumPy, SQL, s
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harinianbu-create/shopsphere-ecommerce-data-analytics/blob/main/notebooks/shopsphere_ecommerce_data_analysis.ipynb)
 
+## Key Business Insights
+
+- Electronics generated the highest delivered sales among product categories.
+- Beauty generated the highest delivered profit among product categories.
+- Regular customers contributed the largest share of delivered sales and profit.
+- Higher-priced products contributed a larger share of delivered sales and profit.
+- Discounts showed a statistically significant negative relationship with profit.
+- Selling price showed a statistically significant positive relationship with profit.
+- Product category had a statistically significant effect on average profit.
+- Beauty recorded the highest product return rate among the analyzed categories.
+
 ## Project Overview
 
 ShopSphere is an end-to-end e-commerce analytics project designed to transform raw business data into meaningful insights for sales, customers, products, profitability, website engagement, and order performance.
